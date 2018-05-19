@@ -1,4 +1,4 @@
-# Victor Hugo
+# Manu Hugo
 
 **A Hugo boilerplate for creating truly epic websites**
 
